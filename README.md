@@ -3,7 +3,8 @@
 Generate a README.md file in seconds! This project simplifies the process of creating professional README files for your GitHub repositories.  Forget tedious manual writing and let Readme-Generator do the heavy lifting.
 
 ## Live Link
-[Readme-Generator]("https://readme-gen.streamlit.app/")
+[Readme-Generator](https://readme-gen.streamlit.app/)
+
 
 
 ## 🛠️ Installation
